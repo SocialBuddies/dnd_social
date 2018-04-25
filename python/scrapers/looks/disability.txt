@@ -1,0 +1,324 @@
+artificial leg
+deafness
+dysmetria
+attention deficit/add
+paraplegia
+blindness
+artificial arm
+dysarthria
+muscular dystrophy
+dyspraxia
+auditory neuropathy
+alzheimers
+agnosiainjury req. walker
+triparesis
+muscular dystrophy
+deafness
+dysphagia
+paraplegia
+agnosia
+down syndrome
+scoliosis
+dysarthria
+auditory neuropathy
+dyscalculia
+radial tunnel syndrome
+cerebral palsy
+artificial leg
+dyslexia
+asperger syndrome
+dysphonia (mute)
+hyperactivity/adhd
+artificial arm
+autism
+dyspraxia
+severe arthritis
+attention deficit/add
+blindness
+lymphedema
+alzheimers
+injury req. wheelchair
+stuttering
+aphasia
+apraxia
+dysmetria
+dysgraphia
+triplegia
+spina bifida
+artificial hand
+myotonic dystrophy
+tourettes
+albinism
+injury req. crutches
+injury req. walker
+triparesis
+muscular dystrophy
+dysphagia
+paraplegia
+agnosia
+down syndrome
+scoliosis
+dysarthria
+auditory neuropathy
+cerebral palsy
+radial tunnel syndrome
+dyscalculia
+artificial leg
+dyslexia
+asperger syndrome
+dysphonia (mute)
+hyperactivity/adhd
+artificial arm
+autism
+dyspraxia
+severe arthritis
+attention deficit/add
+blindness
+lymphedema
+stuttering
+alzheimers
+injury req. wheelchair
+aphasia
+apraxia
+dysmetria
+dysgraphia
+triplegia
+spina bifida
+artificial hand
+myotonic dystrophy
+tourettes
+albinism
+injury req. crutches
+injury req. walker
+triparesis
+deafness
+dysphagia
+paraplegia
+agnosia
+down syndrome
+scoliosis
+dysarthria
+auditory neuropathy
+cerebral palsy
+dyscalculia
+radial tunnel syndrome
+artificial leg
+dyslexia
+asperger syndrome
+dysphonia (mute)
+artificial arm
+autism
+dyspraxia
+severe arthritis
+attention deficit/add
+blindness
+lymphedema
+injury req. wheelchair
+stuttering
+alzheimers
+aphasia
+apraxia
+dysmetria
+dysgraphia
+triplegia
+spina bifida
+artificial hand
+myotonic dystrophy
+tourettes
+albinism
+injury req. crutches
+injury req. walker
+triparesis
+muscular dystrophy
+deafness
+dysphagia
+paraplegia
+agnosia
+down syndrome
+scoliosis
+dysarthria
+auditory neuropathy
+cerebral palsy
+radial tunnel syndrome
+dyscalculia
+artificial leg
+dyslexia
+asperger syndrome
+hyperactivity/adhd
+artificial arm
+autism
+dyspraxia
+severe arthritis
+attention deficit/add
+blindness
+lymphedema
+stuttering
+alzheimers
+injury req. wheelchair
+aphasia
+apraxia
+dysmetria
+dysgraphia
+triplegia
+spina bifida
+artificial hand
+albinism
+injury req. crutches
+injury req. walker
+triparesis
+muscular dystrophy
+deafness
+dysphagia
+paraplegia
+agnosia
+scoliosis
+dysarthria
+auditory neuropathy
+dyscalculia
+cerebral palsy
+radial tunnel syndrome
+artificial leg
+dyslexia
+asperger syndrome
+dysphonia (mute)
+hyperactivity/adhd
+artificial arm
+autism
+dyspraxia
+severe arthritis
+attention deficit/add
+blindness
+lymphedema
+injury req. wheelchair
+stuttering
+alzheimers
+aphasia
+apraxia
+dysmetria
+dysgraphia
+triplegia
+spina bifida
+artificial hand
+myotonic dystrophy
+tourettes
+albinism
+injury req. crutches
+injury req. walker
+triparesis
+muscular dystrophy
+deafness
+dysphagia
+paraplegia
+agnosia
+down syndrome
+scoliosis
+dysarthria
+auditory neuropathy
+cerebral palsy
+dyscalculia
+radial tunnel syndrome
+artificial leg
+dyslexia
+asperger syndrome
+hyperactivity/adhd
+dysphonia (mute)
+artificial arm
+autism
+dyspraxia
+severe arthritis
+attention deficit/add
+blindness
+lymphedema
+injury req. wheelchair
+stuttering
+alzheimers
+aphasia
+apraxia
+dysmetria
+dysgraphia
+triplegia
+spina bifida
+artificial hand
+myotonic dystrophy
+tourettes
+albinism
+injury req. crutches
+injury req. walker
+triparesis
+muscular dystrophy
+deafness
+dysphagia
+paraplegia
+agnosia
+down syndrome
+scoliosis
+dysarthria
+auditory neuropathy
+cerebral palsy
+radial tunnel syndrome
+dyscalculia
+artificial leg
+dyslexia
+asperger syndrome
+hyperactivity/adhd
+dysphonia (mute)
+artificial arm
+autism
+dyspraxia
+severe arthritis
+attention deficit/add
+blindness
+lymphedema
+alzheimers
+injury req. wheelchair
+stuttering
+aphasia
+apraxia
+dysmetria
+dysgraphia
+triplegia
+spina bifida
+artificial hand
+myotonic dystrophy
+tourettes
+albinism
+injury req. crutches
+injury req. walker
+triparesis
+muscular dystrophy
+deafness
+dysphagia
+paraplegia
+agnosia
+down syndrome
+scoliosis
+dysarthria
+auditory neuropathy
+cerebral palsy
+radial tunnel syndrome
+dyscalculia
+artificial leg
+dyslexia
+asperger syndrome
+hyperactivity/adhd
+dysphonia (mute)
+artificial arm
+autism
+dyspraxia
+severe arthritis
+attention deficit/add
+blindness
+lymphedema
+injury req. wheelchair
+stuttering
+alzheimers
+aphasia
+apraxia
+dysmetria
+dysgraphia
+triplegia
+spina bifida
+artificial hand
+myotonic dystrophy
+albinism
+injury req. crutches

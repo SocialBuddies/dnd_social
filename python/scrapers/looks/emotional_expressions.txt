@@ -1,0 +1,678 @@
+shame: quick to feel, slow to forget
+anxiety: internalizes and reverse-projects
+regret: denies or dismisses
+regret: externalizes and projects
+regret: internalizes and reverse-projects
+sadness: externalizes and projects
+regret: quick to feel, quick to forget
+joy: internalizes and reverse-projects
+fear: denies or dismisses
+regret: hides emotion until sudden display
+sadness: quick to feel, slow to forget
+love: internalizes and reverse-projects
+respect: slow to feel, slow to forget
+fear: internalizes and reverse-projects
+lust: hides emotion until sudden display
+shame: externalizes and projects
+respect: denies or dismisses
+fear: slow to feel, slow to forget
+hatred: hides emotion until sudden display
+anxiety: quick to feel, slow to forget
+anger: hides emotion until sudden display
+sadness: quick to feel, quick to forget
+shame: hides emotion until sudden display
+respect: quick to feel, quick to forget
+regret: quick to feel, slow to forget
+lust: internalizes and reverse-projects
+anxiety: slow to feel, slow to forget
+hatred: denies or dismisses
+joy: externalizes and projects
+anger: externalizes and projects
+anxiety: denies or dismisses
+hatred: externalizes and projects
+anger: denies or dismisses
+lust: externalizes and projects
+shame: quick to feel, quick to forget
+respect: externalizes and projects
+anger: quick to feel, slow to forget
+love: quick to feel, quick to forget
+regret: slow to feel, slow to forget
+hatred: slow to feel, slow to forget
+lust: quick to feel, slow to forget
+shame: internalizes and reverse-projects
+shame: slow to feel, slow to forget
+joy: hides emotion until sudden display
+joy: quick to feel, quick to forget
+hatred: quick to feel, quick to forget
+fear: externalizes and projects
+love: hides emotion until sudden display
+lust: denies or dismisses
+joy: denies or dismisses
+shame: denies or dismisses
+anger: quick to feel, quick to forget
+anger: internalizes and reverse-projects
+love: externalizes and projects
+joy: quick to feel, slow to forget
+fear: quick to feel, quick to forget
+anger: slow to feel, slow to forget
+lust: slow to feel, slow to forget
+love: slow to feel, slow to forget
+sadness: slow to feel, slow to forget
+love: quick to feel, slow to forget
+respect: internalizes and reverse-projects
+hatred: hides emotion until sudden display
+love: quick to feel, slow to forget
+fear: denies or dismisses
+anxiety: hides emotion until sudden display
+regret: internalizes and reverse-projects
+fear: quick to feel, slow to forget
+love: slow to feel, slow to forget
+fear: hides emotion until sudden display
+anxiety: quick to feel, slow to forget
+anxiety: quick to feel, quick to forget
+anger: denies or dismisses
+regret: denies or dismisses
+lust: hides emotion until sudden display
+respect: quick to feel, quick to forget
+respect: externalizes and projects
+regret: quick to feel, slow to forget
+regret: slow to feel, slow to forget
+lust: denies or dismisses
+shame: internalizes and reverse-projects
+fear: externalizes and projects
+fear: quick to feel, quick to forget
+anxiety: externalizes and projects
+hatred: slow to feel, slow to forget
+fear: slow to feel, slow to forget
+hatred: internalizes and reverse-projects
+love: hides emotion until sudden display
+anger: quick to feel, quick to forget
+respect: quick to feel, slow to forget
+fear: internalizes and reverse-projects
+shame: hides emotion until sudden display
+hatred: denies or dismisses
+lust: quick to feel, slow to forget
+lust: quick to feel, quick to forget
+regret: hides emotion until sudden display
+shame: slow to feel, slow to forget
+sadness: quick to feel, slow to forget
+sadness: hides emotion until sudden display
+hatred: quick to feel, quick to forget
+lust: internalizes and reverse-projects
+joy: hides emotion until sudden display
+shame: denies or dismisses
+anger: hides emotion until sudden display
+joy: denies or dismisses
+love: externalizes and projects
+love: quick to feel, quick to forget
+anxiety: slow to feel, slow to forget
+sadness: externalizes and projects
+joy: quick to feel, quick to forget
+regret: externalizes and projects
+love: denies or dismisses
+regret: quick to feel, quick to forget
+respect: internalizes and reverse-projects
+anger: slow to feel, slow to forget
+lust: slow to feel, slow to forget
+hatred: externalizes and projects
+anxiety: internalizes and reverse-projects
+joy: externalizes and projects
+sadness: slow to feel, slow to forget
+love: internalizes and reverse-projects
+respect: slow to feel, slow to forget
+anger: quick to feel, slow to forget
+shame: quick to feel, quick to forget
+respect: hides emotion until sudden display
+sadness: internalizes and reverse-projects
+joy: slow to feel, slow to forget
+joy: quick to feel, slow to forget
+anger: externalizes and projects
+shame: externalizes and projects
+respect: denies or dismisses
+sadness: denies or dismisses
+shame: quick to feel, slow to forget
+hatred: quick to feel, slow to forget
+sadness: quick to feel, quick to forget
+joy: internalizes and reverse-projects
+anxiety: denies or dismisses
+anger: internalizes and reverse-projects
+lust: externalizes and projects
+hatred: hides emotion until sudden display
+love: quick to feel, slow to forget
+fear: denies or dismisses
+anxiety: hides emotion until sudden display
+regret: internalizes and reverse-projects
+fear: quick to feel, slow to forget
+love: slow to feel, slow to forget
+fear: hides emotion until sudden display
+anxiety: quick to feel, slow to forget
+anxiety: quick to feel, quick to forget
+anger: denies or dismisses
+regret: denies or dismisses
+lust: hides emotion until sudden display
+respect: quick to feel, quick to forget
+respect: externalizes and projects
+regret: quick to feel, slow to forget
+regret: slow to feel, slow to forget
+lust: denies or dismisses
+shame: internalizes and reverse-projects
+fear: externalizes and projects
+fear: quick to feel, quick to forget
+anxiety: externalizes and projects
+hatred: internalizes and reverse-projects
+fear: slow to feel, slow to forget
+hatred: slow to feel, slow to forget
+love: hides emotion until sudden display
+anger: quick to feel, quick to forget
+respect: quick to feel, slow to forget
+fear: internalizes and reverse-projects
+shame: hides emotion until sudden display
+hatred: denies or dismisses
+lust: quick to feel, slow to forget
+lust: quick to feel, quick to forget
+regret: hides emotion until sudden display
+shame: slow to feel, slow to forget
+sadness: quick to feel, slow to forget
+sadness: hides emotion until sudden display
+hatred: quick to feel, quick to forget
+joy: hides emotion until sudden display
+lust: internalizes and reverse-projects
+shame: denies or dismisses
+anger: hides emotion until sudden display
+joy: denies or dismisses
+love: externalizes and projects
+love: quick to feel, quick to forget
+anxiety: slow to feel, slow to forget
+sadness: externalizes and projects
+joy: quick to feel, quick to forget
+regret: externalizes and projects
+love: denies or dismisses
+regret: quick to feel, quick to forget
+respect: internalizes and reverse-projects
+anger: slow to feel, slow to forget
+lust: slow to feel, slow to forget
+hatred: externalizes and projects
+anxiety: internalizes and reverse-projects
+joy: externalizes and projects
+sadness: slow to feel, slow to forget
+love: internalizes and reverse-projects
+respect: slow to feel, slow to forget
+anger: quick to feel, slow to forget
+shame: quick to feel, quick to forget
+respect: hides emotion until sudden display
+sadness: internalizes and reverse-projects
+joy: slow to feel, slow to forget
+joy: quick to feel, slow to forget
+anger: externalizes and projects
+shame: externalizes and projects
+respect: denies or dismisses
+sadness: denies or dismisses
+shame: quick to feel, slow to forget
+hatred: quick to feel, slow to forget
+sadness: quick to feel, quick to forget
+joy: internalizes and reverse-projects
+anxiety: denies or dismisses
+anger: internalizes and reverse-projects
+lust: externalizes and projects
+hatred: hides emotion until sudden display
+love: quick to feel, slow to forget
+anxiety: hides emotion until sudden display
+fear: denies or dismisses
+regret: internalizes and reverse-projects
+fear: quick to feel, slow to forget
+love: slow to feel, slow to forget
+fear: hides emotion until sudden display
+anxiety: quick to feel, slow to forget
+anxiety: quick to feel, quick to forget
+anger: denies or dismisses
+regret: denies or dismisses
+lust: hides emotion until sudden display
+regret: quick to feel, slow to forget
+respect: externalizes and projects
+respect: quick to feel, quick to forget
+regret: slow to feel, slow to forget
+lust: denies or dismisses
+shame: internalizes and reverse-projects
+fear: externalizes and projects
+fear: quick to feel, quick to forget
+anxiety: externalizes and projects
+fear: slow to feel, slow to forget
+hatred: internalizes and reverse-projects
+hatred: slow to feel, slow to forget
+love: hides emotion until sudden display
+anger: quick to feel, quick to forget
+respect: quick to feel, slow to forget
+fear: internalizes and reverse-projects
+shame: hides emotion until sudden display
+hatred: denies or dismisses
+lust: quick to feel, slow to forget
+lust: quick to feel, quick to forget
+regret: hides emotion until sudden display
+shame: slow to feel, slow to forget
+sadness: quick to feel, slow to forget
+sadness: hides emotion until sudden display
+hatred: quick to feel, quick to forget
+joy: hides emotion until sudden display
+lust: internalizes and reverse-projects
+shame: denies or dismisses
+anger: hides emotion until sudden display
+joy: denies or dismisses
+love: externalizes and projects
+sadness: externalizes and projects
+anxiety: slow to feel, slow to forget
+love: quick to feel, quick to forget
+joy: quick to feel, quick to forget
+regret: externalizes and projects
+love: denies or dismisses
+regret: quick to feel, quick to forget
+respect: internalizes and reverse-projects
+anger: slow to feel, slow to forget
+lust: slow to feel, slow to forget
+hatred: externalizes and projects
+anxiety: internalizes and reverse-projects
+joy: externalizes and projects
+sadness: slow to feel, slow to forget
+love: internalizes and reverse-projects
+anger: quick to feel, slow to forget
+respect: slow to feel, slow to forget
+shame: quick to feel, quick to forget
+respect: hides emotion until sudden display
+sadness: internalizes and reverse-projects
+joy: slow to feel, slow to forget
+joy: quick to feel, slow to forget
+anger: externalizes and projects
+shame: externalizes and projects
+respect: denies or dismisses
+sadness: denies or dismisses
+shame: quick to feel, slow to forget
+hatred: quick to feel, slow to forget
+sadness: quick to feel, quick to forget
+joy: internalizes and reverse-projects
+anxiety: denies or dismisses
+anger: internalizes and reverse-projects
+lust: externalizes and projects
+hatred: hides emotion until sudden display
+love: quick to feel, slow to forget
+fear: denies or dismisses
+anxiety: hides emotion until sudden display
+regret: internalizes and reverse-projects
+fear: quick to feel, slow to forget
+love: slow to feel, slow to forget
+fear: hides emotion until sudden display
+anxiety: quick to feel, slow to forget
+anxiety: quick to feel, quick to forget
+anger: denies or dismisses
+regret: denies or dismisses
+lust: hides emotion until sudden display
+regret: quick to feel, slow to forget
+respect: quick to feel, quick to forget
+respect: externalizes and projects
+regret: slow to feel, slow to forget
+shame: internalizes and reverse-projects
+lust: denies or dismisses
+fear: externalizes and projects
+fear: quick to feel, quick to forget
+anxiety: externalizes and projects
+fear: slow to feel, slow to forget
+hatred: internalizes and reverse-projects
+hatred: slow to feel, slow to forget
+love: hides emotion until sudden display
+anger: quick to feel, quick to forget
+respect: quick to feel, slow to forget
+fear: internalizes and reverse-projects
+shame: hides emotion until sudden display
+hatred: denies or dismisses
+lust: quick to feel, slow to forget
+lust: quick to feel, quick to forget
+regret: hides emotion until sudden display
+shame: slow to feel, slow to forget
+sadness: quick to feel, slow to forget
+sadness: hides emotion until sudden display
+hatred: quick to feel, quick to forget
+joy: hides emotion until sudden display
+lust: internalizes and reverse-projects
+shame: denies or dismisses
+anger: hides emotion until sudden display
+joy: denies or dismisses
+love: externalizes and projects
+sadness: externalizes and projects
+anxiety: slow to feel, slow to forget
+love: quick to feel, quick to forget
+joy: quick to feel, quick to forget
+regret: externalizes and projects
+love: denies or dismisses
+regret: quick to feel, quick to forget
+respect: internalizes and reverse-projects
+anger: slow to feel, slow to forget
+lust: slow to feel, slow to forget
+hatred: externalizes and projects
+anxiety: internalizes and reverse-projects
+joy: externalizes and projects
+sadness: slow to feel, slow to forget
+love: internalizes and reverse-projects
+respect: slow to feel, slow to forget
+anger: quick to feel, slow to forget
+shame: quick to feel, quick to forget
+respect: hides emotion until sudden display
+sadness: internalizes and reverse-projects
+joy: slow to feel, slow to forget
+joy: quick to feel, slow to forget
+anger: externalizes and projects
+shame: externalizes and projects
+respect: denies or dismisses
+sadness: denies or dismisses
+shame: quick to feel, slow to forget
+hatred: quick to feel, slow to forget
+sadness: quick to feel, quick to forget
+joy: internalizes and reverse-projects
+anxiety: denies or dismisses
+anger: internalizes and reverse-projects
+lust: externalizes and projects
+hatred: hides emotion until sudden display
+love: quick to feel, slow to forget
+anxiety: hides emotion until sudden display
+fear: denies or dismisses
+regret: internalizes and reverse-projects
+fear: quick to feel, slow to forget
+love: slow to feel, slow to forget
+fear: hides emotion until sudden display
+anxiety: quick to feel, slow to forget
+anxiety: quick to feel, quick to forget
+anger: denies or dismisses
+regret: denies or dismisses
+lust: hides emotion until sudden display
+regret: quick to feel, slow to forget
+respect: externalizes and projects
+respect: quick to feel, quick to forget
+regret: slow to feel, slow to forget
+lust: denies or dismisses
+shame: internalizes and reverse-projects
+fear: externalizes and projects
+fear: quick to feel, quick to forget
+anxiety: externalizes and projects
+fear: slow to feel, slow to forget
+hatred: internalizes and reverse-projects
+hatred: slow to feel, slow to forget
+love: hides emotion until sudden display
+anger: quick to feel, quick to forget
+respect: quick to feel, slow to forget
+fear: internalizes and reverse-projects
+shame: hides emotion until sudden display
+hatred: denies or dismisses
+lust: quick to feel, slow to forget
+lust: quick to feel, quick to forget
+regret: hides emotion until sudden display
+shame: slow to feel, slow to forget
+sadness: quick to feel, slow to forget
+sadness: hides emotion until sudden display
+hatred: quick to feel, quick to forget
+joy: hides emotion until sudden display
+lust: internalizes and reverse-projects
+shame: denies or dismisses
+anger: hides emotion until sudden display
+joy: denies or dismisses
+love: externalizes and projects
+love: quick to feel, quick to forget
+anxiety: slow to feel, slow to forget
+sadness: externalizes and projects
+joy: quick to feel, quick to forget
+regret: externalizes and projects
+love: denies or dismisses
+regret: quick to feel, quick to forget
+respect: internalizes and reverse-projects
+anger: slow to feel, slow to forget
+lust: slow to feel, slow to forget
+hatred: externalizes and projects
+anxiety: internalizes and reverse-projects
+joy: externalizes and projects
+sadness: slow to feel, slow to forget
+love: internalizes and reverse-projects
+anger: quick to feel, slow to forget
+respect: slow to feel, slow to forget
+shame: quick to feel, quick to forget
+respect: hides emotion until sudden display
+sadness: internalizes and reverse-projects
+joy: slow to feel, slow to forget
+joy: quick to feel, slow to forget
+anger: externalizes and projects
+shame: externalizes and projects
+respect: denies or dismisses
+sadness: denies or dismisses
+shame: quick to feel, slow to forget
+hatred: quick to feel, slow to forget
+sadness: quick to feel, quick to forget
+joy: internalizes and reverse-projects
+anxiety: denies or dismisses
+anger: internalizes and reverse-projects
+lust: externalizes and projects
+hatred: hides emotion until sudden display
+love: quick to feel, slow to forget
+anxiety: hides emotion until sudden display
+fear: denies or dismisses
+regret: internalizes and reverse-projects
+fear: quick to feel, slow to forget
+love: slow to feel, slow to forget
+fear: hides emotion until sudden display
+anxiety: quick to feel, slow to forget
+anxiety: quick to feel, quick to forget
+anger: denies or dismisses
+regret: denies or dismisses
+lust: hides emotion until sudden display
+regret: quick to feel, slow to forget
+respect: externalizes and projects
+respect: quick to feel, quick to forget
+regret: slow to feel, slow to forget
+shame: internalizes and reverse-projects
+lust: denies or dismisses
+fear: externalizes and projects
+fear: quick to feel, quick to forget
+anxiety: externalizes and projects
+hatred: internalizes and reverse-projects
+hatred: slow to feel, slow to forget
+fear: slow to feel, slow to forget
+love: hides emotion until sudden display
+anger: quick to feel, quick to forget
+respect: quick to feel, slow to forget
+fear: internalizes and reverse-projects
+shame: hides emotion until sudden display
+hatred: denies or dismisses
+lust: quick to feel, slow to forget
+lust: quick to feel, quick to forget
+regret: hides emotion until sudden display
+shame: slow to feel, slow to forget
+sadness: quick to feel, slow to forget
+sadness: hides emotion until sudden display
+hatred: quick to feel, quick to forget
+joy: hides emotion until sudden display
+lust: internalizes and reverse-projects
+shame: denies or dismisses
+anger: hides emotion until sudden display
+joy: denies or dismisses
+love: externalizes and projects
+sadness: externalizes and projects
+anxiety: slow to feel, slow to forget
+love: quick to feel, quick to forget
+joy: quick to feel, quick to forget
+regret: externalizes and projects
+love: denies or dismisses
+regret: quick to feel, quick to forget
+respect: internalizes and reverse-projects
+anger: slow to feel, slow to forget
+lust: slow to feel, slow to forget
+hatred: externalizes and projects
+anxiety: internalizes and reverse-projects
+joy: externalizes and projects
+sadness: slow to feel, slow to forget
+love: internalizes and reverse-projects
+anger: quick to feel, slow to forget
+respect: slow to feel, slow to forget
+shame: quick to feel, quick to forget
+respect: hides emotion until sudden display
+sadness: internalizes and reverse-projects
+joy: slow to feel, slow to forget
+joy: quick to feel, slow to forget
+anger: externalizes and projects
+shame: externalizes and projects
+respect: denies or dismisses
+sadness: denies or dismisses
+shame: quick to feel, slow to forget
+hatred: quick to feel, slow to forget
+sadness: quick to feel, quick to forget
+joy: internalizes and reverse-projects
+anxiety: denies or dismisses
+anger: internalizes and reverse-projects
+lust: externalizes and projects
+hatred: hides emotion until sudden display
+love: quick to feel, slow to forget
+fear: denies or dismisses
+anxiety: hides emotion until sudden display
+regret: internalizes and reverse-projects
+fear: quick to feel, slow to forget
+love: slow to feel, slow to forget
+fear: hides emotion until sudden display
+anxiety: quick to feel, slow to forget
+anxiety: quick to feel, quick to forget
+anger: denies or dismisses
+regret: denies or dismisses
+lust: hides emotion until sudden display
+regret: quick to feel, slow to forget
+respect: externalizes and projects
+respect: quick to feel, quick to forget
+regret: slow to feel, slow to forget
+shame: internalizes and reverse-projects
+lust: denies or dismisses
+fear: externalizes and projects
+fear: quick to feel, quick to forget
+anxiety: externalizes and projects
+hatred: internalizes and reverse-projects
+hatred: slow to feel, slow to forget
+fear: slow to feel, slow to forget
+love: hides emotion until sudden display
+anger: quick to feel, quick to forget
+respect: quick to feel, slow to forget
+fear: internalizes and reverse-projects
+shame: hides emotion until sudden display
+hatred: denies or dismisses
+lust: quick to feel, slow to forget
+lust: quick to feel, quick to forget
+regret: hides emotion until sudden display
+shame: slow to feel, slow to forget
+sadness: quick to feel, slow to forget
+sadness: hides emotion until sudden display
+hatred: quick to feel, quick to forget
+joy: hides emotion until sudden display
+lust: internalizes and reverse-projects
+shame: denies or dismisses
+anger: hides emotion until sudden display
+joy: denies or dismisses
+love: externalizes and projects
+sadness: externalizes and projects
+love: quick to feel, quick to forget
+anxiety: slow to feel, slow to forget
+joy: quick to feel, quick to forget
+regret: externalizes and projects
+love: denies or dismisses
+regret: quick to feel, quick to forget
+respect: internalizes and reverse-projects
+anger: slow to feel, slow to forget
+lust: slow to feel, slow to forget
+hatred: externalizes and projects
+anxiety: internalizes and reverse-projects
+joy: externalizes and projects
+sadness: slow to feel, slow to forget
+love: internalizes and reverse-projects
+respect: slow to feel, slow to forget
+anger: quick to feel, slow to forget
+shame: quick to feel, quick to forget
+respect: hides emotion until sudden display
+sadness: internalizes and reverse-projects
+joy: slow to feel, slow to forget
+joy: quick to feel, slow to forget
+anger: externalizes and projects
+shame: externalizes and projects
+respect: denies or dismisses
+sadness: denies or dismisses
+shame: quick to feel, slow to forget
+hatred: quick to feel, slow to forget
+sadness: quick to feel, quick to forget
+joy: internalizes and reverse-projects
+anxiety: denies or dismisses
+anger: internalizes and reverse-projects
+lust: externalizes and projects
+hatred: hides emotion until sudden display
+love: quick to feel, slow to forget
+fear: denies or dismisses
+anxiety: hides emotion until sudden display
+regret: internalizes and reverse-projects
+fear: quick to feel, slow to forget
+love: slow to feel, slow to forget
+fear: hides emotion until sudden display
+anxiety: quick to feel, slow to forget
+anxiety: quick to feel, quick to forget
+anger: denies or dismisses
+regret: denies or dismisses
+lust: hides emotion until sudden display
+regret: quick to feel, slow to forget
+respect: quick to feel, quick to forget
+respect: externalizes and projects
+regret: slow to feel, slow to forget
+shame: internalizes and reverse-projects
+lust: denies or dismisses
+fear: externalizes and projects
+fear: quick to feel, quick to forget
+anxiety: externalizes and projects
+hatred: slow to feel, slow to forget
+hatred: internalizes and reverse-projects
+fear: slow to feel, slow to forget
+love: hides emotion until sudden display
+anger: quick to feel, quick to forget
+respect: quick to feel, slow to forget
+fear: internalizes and reverse-projects
+shame: hides emotion until sudden display
+hatred: denies or dismisses
+lust: quick to feel, slow to forget
+lust: quick to feel, quick to forget
+regret: hides emotion until sudden display
+shame: slow to feel, slow to forget
+sadness: quick to feel, slow to forget
+sadness: hides emotion until sudden display
+hatred: quick to feel, quick to forget
+joy: hides emotion until sudden display
+lust: internalizes and reverse-projects
+shame: denies or dismisses
+anger: hides emotion until sudden display
+joy: denies or dismisses
+love: externalizes and projects
+love: quick to feel, quick to forget
+anxiety: slow to feel, slow to forget
+sadness: externalizes and projects
+joy: quick to feel, quick to forget
+regret: externalizes and projects
+love: denies or dismisses
+regret: quick to feel, quick to forget
+respect: internalizes and reverse-projects
+anger: slow to feel, slow to forget
+lust: slow to feel, slow to forget
+hatred: externalizes and projects
+anxiety: internalizes and reverse-projects
+joy: externalizes and projects
+sadness: slow to feel, slow to forget
+love: internalizes and reverse-projects
+respect: slow to feel, slow to forget
+anger: quick to feel, slow to forget
+shame: quick to feel, quick to forget
+respect: hides emotion until sudden display
+sadness: internalizes and reverse-projects
+joy: slow to feel, slow to forget
+joy: quick to feel, slow to forget
+anger: externalizes and projects
+shame: externalizes and projects
+respect: denies or dismisses
+sadness: denies or dismisses
+shame: quick to feel, slow to forget
+hatred: quick to feel, slow to forget
+sadness: quick to feel, quick to forget
+joy: internalizes and reverse-projects
+anxiety: denies or dismisses
+anger: internalizes and reverse-projects
+lust: externalizes and projects

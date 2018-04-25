@@ -1,0 +1,401 @@
+exceptional strength
+exceptional stamina
+average strength
+poor speed
+very good strength
+exceptional dexterity
+average coordination
+very good dexterity
+average speed
+exceptional reflexes
+poor flexibility
+average dexterity
+poor stamina
+adequate coordination
+poor balance
+poor dexterity
+poor coordination
+very good reflexes
+exceptional speed
+poor agility
+average reflexes
+adequate strength
+exceptional agility
+adequate flexibility
+average agility
+average stamina
+very good stamina
+adequate agility
+poor reflexes
+exceptional flexibility
+adequate balance
+poor strength
+adequate reflexes
+adequate dexterity
+exceptional coordination
+average flexibility
+very good flexibility
+very good agility
+very good balance
+adequate speed
+very good coordination
+adequate staminapoor speed
+very good stamina
+exceptional stamina
+poor agility
+exceptional coordination
+poor strength
+average strength
+poor balance
+very good balance
+exceptional speed
+adequate coordination
+adequate speed
+adequate agility
+average coordination
+average speed
+very good speed
+adequate flexibility
+average flexibility
+average balance
+very good coordination
+exceptional reflexes
+poor reflexes
+adequate dexterity
+average agility
+very good agility
+exceptional strength
+average stamina
+poor flexibility
+very good reflexes
+adequate reflexes
+very good strength
+exceptional balance
+exceptional dexterity
+very good dexterity
+adequate stamina
+adequate balance
+poor dexterity
+adequate strength
+average reflexes
+exceptional flexibility
+poor stamina
+very good flexibility
+average dexterity
+poor coordination
+exceptional agility
+very good stamina
+poor speed
+exceptional stamina
+poor agility
+exceptional coordination
+poor strength
+average strength
+very good balance
+poor balance
+exceptional speed
+adequate coordination
+adequate speed
+adequate agility
+average coordination
+average flexibility
+average speed
+adequate flexibility
+very good speed
+average balance
+very good coordination
+exceptional reflexes
+poor reflexes
+average agility
+adequate dexterity
+very good agility
+exceptional strength
+average stamina
+poor flexibility
+very good reflexes
+adequate reflexes
+very good strength
+exceptional balance
+exceptional dexterity
+very good dexterity
+adequate stamina
+adequate balance
+poor dexterity
+adequate strength
+average reflexes
+exceptional flexibility
+poor stamina
+very good flexibility
+average dexterity
+poor coordination
+exceptional agility
+very good stamina
+poor speed
+exceptional stamina
+poor agility
+exceptional coordination
+poor strength
+average strength
+exceptional speed
+poor balance
+adequate coordination
+very good balance
+adequate speed
+adequate agility
+average coordination
+average speed
+very good speed
+adequate flexibility
+average flexibility
+average balance
+very good coordination
+exceptional reflexes
+poor reflexes
+average agility
+adequate dexterity
+very good agility
+exceptional strength
+average stamina
+poor flexibility
+very good reflexes
+adequate reflexes
+very good strength
+exceptional balance
+exceptional dexterity
+very good dexterity
+adequate stamina
+adequate balance
+poor dexterity
+adequate strength
+average reflexes
+exceptional flexibility
+poor stamina
+very good flexibility
+average dexterity
+poor coordination
+exceptional agility
+very good stamina
+poor speed
+exceptional stamina
+poor agility
+exceptional coordination
+poor strength
+average strength
+very good balance
+exceptional speed
+adequate coordination
+poor balance
+adequate speed
+adequate agility
+average coordination
+average speed
+average flexibility
+adequate flexibility
+very good speed
+average balance
+very good coordination
+exceptional reflexes
+poor reflexes
+adequate dexterity
+average agility
+very good agility
+exceptional strength
+average stamina
+poor flexibility
+very good reflexes
+adequate reflexes
+very good strength
+exceptional balance
+exceptional dexterity
+very good dexterity
+adequate stamina
+adequate balance
+poor dexterity
+adequate strength
+average reflexes
+exceptional flexibility
+poor stamina
+very good flexibility
+average dexterity
+poor coordination
+exceptional agility
+poor speed
+very good stamina
+exceptional stamina
+poor agility
+exceptional coordination
+poor strength
+average strength
+poor balance
+very good balance
+adequate coordination
+exceptional speed
+adequate speed
+adequate agility
+average coordination
+average flexibility
+average speed
+adequate flexibility
+very good speed
+average balance
+very good coordination
+exceptional reflexes
+poor reflexes
+average agility
+adequate dexterity
+very good agility
+exceptional strength
+average stamina
+poor flexibility
+very good reflexes
+adequate reflexes
+very good strength
+exceptional balance
+exceptional dexterity
+very good dexterity
+adequate stamina
+adequate balance
+poor dexterity
+adequate strength
+average reflexes
+exceptional flexibility
+poor stamina
+very good flexibility
+average dexterity
+poor coordination
+exceptional agility
+poor speed
+very good stamina
+exceptional stamina
+poor agility
+exceptional coordination
+poor strength
+average strength
+poor balance
+exceptional speed
+adequate coordination
+very good balance
+adequate speed
+adequate agility
+average coordination
+average flexibility
+very good speed
+adequate flexibility
+average speed
+average balance
+very good coordination
+exceptional reflexes
+poor reflexes
+adequate dexterity
+average agility
+very good agility
+exceptional strength
+average stamina
+poor flexibility
+very good reflexes
+adequate reflexes
+very good strength
+exceptional balance
+exceptional dexterity
+very good dexterity
+adequate stamina
+adequate balance
+poor dexterity
+adequate strength
+average reflexes
+exceptional flexibility
+poor stamina
+very good flexibility
+average dexterity
+poor coordination
+exceptional agility
+very good stamina
+poor speed
+exceptional stamina
+poor agility
+exceptional coordination
+poor strength
+average strength
+poor balance
+exceptional speed
+adequate coordination
+very good balance
+adequate speed
+adequate agility
+average coordination
+average speed
+average flexibility
+very good speed
+adequate flexibility
+very good coordination
+average balance
+exceptional reflexes
+poor reflexes
+adequate dexterity
+average agility
+very good agility
+exceptional strength
+average stamina
+poor flexibility
+very good reflexes
+adequate reflexes
+very good strength
+exceptional balance
+exceptional dexterity
+very good dexterity
+adequate stamina
+adequate balance
+poor dexterity
+adequate strength
+average reflexes
+exceptional flexibility
+poor stamina
+very good flexibility
+average dexterity
+poor coordination
+exceptional agility
+very good stamina
+poor speed
+exceptional stamina
+poor agility
+exceptional coordination
+poor strength
+average strength
+exceptional speed
+poor balance
+adequate coordination
+very good balance
+adequate speed
+adequate agility
+average coordination
+average speed
+very good speed
+adequate flexibility
+average flexibility
+very good coordination
+average balance
+exceptional reflexes
+poor reflexes
+average agility
+adequate dexterity
+very good agility
+exceptional strength
+average stamina
+poor flexibility
+very good reflexes
+adequate reflexes
+very good strength
+exceptional balance
+exceptional dexterity
+very good dexterity
+adequate stamina
+adequate balance
+poor dexterity
+adequate strength
+average reflexes
+exceptional flexibility
+poor stamina
+very good flexibility
+average dexterity
+poor coordination
+exceptional agility

@@ -1,0 +1,490 @@
+right-handed
+prefers preppy clothing
+moves in a fast/controlled manner
+has an uneven gait
+has a short stride
+ambidextrous
+prefers grungy clothing
+prefers new-wave clothing
+walks slow and upright
+has a contorted/twisted posture
+prefers mod clothing
+left-handed
+prefers headbanger clothing
+has a stiff/tense stance
+hunches the shoulders
+stands with hips forward
+moves in a slow/controlled manner
+prefers runway clothing
+has a long stride
+limps
+prefers punk clothing
+walks slow and leans back
+moves in a cautious/tense manner
+has a relaxed stance
+makes subtle gestures
+prefers prairie clothing
+prefers formal clothing
+walks fast and upright
+prefers nerdy clothing
+prefers casual clothing
+prefers tailored clothing
+stands with the stomach relaxed
+prefers conservative clothing
+walks fast with a forward lean
+struts
+slouches
+twitchy, won't sit still
+prefers hippy clothing
+prefers trendy clothing
+hold still when talking
+is bowlegged
+has a military bearing
+prefers sloppy clothing
+moves in a fast/jerky manner
+prefers athletic clothing
+prefers eclectic clothing
+stands with the stomach tensed
+gestures quickly
+moves in a slow/clumsy manner
+prefers retro-disco clothing
+gestures dramaticallyprefers nerdy clothing
+has a relaxed stance
+walks fast and upright
+prefers sloppy clothing
+is bowlegged
+prefers new-wave clothing
+prefers hippy clothing
+has a military bearing
+twitchy, won't sit still
+moves in a fast/jerky manner
+prefers punk clothing
+gestures quickly
+walks slow and upright
+prefers athletic clothing
+prefers colorful clothing
+prefers hipster clothing
+stands with the stomach tensed
+has a stiff/tense stance
+prefers formal clothing
+prefers eclectic clothing
+prefers prairie clothing
+ambidextrous
+prefers trendy clothing
+prefers preppy clothing
+struts
+prefers grungy clothing
+sashays
+moves in a fast/controlled manner
+walks slow and leans back
+moves in a slow/controlled manner
+moves in a slow/clumsy manner
+makes subtle gestures
+prefers retro-fifties clothing
+gestures dramatically
+has an uneven gait
+walks fast with a forward lean
+prefers mod clothing
+slouches
+prefers conservative clothing
+has a long stride
+stands with the stomach relaxed
+prefers casual clothing
+moves in a cautious/tense manner
+stands with hips forward
+prefers tailored clothing
+hunches the shoulders
+prefers runway clothing
+left-handed
+limps
+prefers headbanger clothing
+hold still when talking
+has a contorted/twisted posture
+has a short stride
+prefers retro-disco clothing
+right-handed
+prefers nerdy clothing
+walks fast and upright
+prefers sloppy clothing
+has a relaxed stance
+is bowlegged
+prefers new-wave clothing
+prefers hippy clothing
+has a military bearing
+twitchy, won't sit still
+moves in a fast/jerky manner
+prefers punk clothing
+gestures quickly
+walks slow and upright
+prefers colorful clothing
+prefers formal clothing
+prefers athletic clothing
+stands with the stomach tensed
+has a stiff/tense stance
+prefers hipster clothing
+prefers eclectic clothing
+prefers prairie clothing
+ambidextrous
+prefers trendy clothing
+prefers preppy clothing
+struts
+sashays
+prefers grungy clothing
+moves in a fast/controlled manner
+walks slow and leans back
+moves in a slow/controlled manner
+moves in a slow/clumsy manner
+makes subtle gestures
+prefers retro-fifties clothing
+gestures dramatically
+has an uneven gait
+walks fast with a forward lean
+prefers mod clothing
+slouches
+prefers conservative clothing
+has a long stride
+stands with the stomach relaxed
+prefers casual clothing
+prefers tailored clothing
+stands with hips forward
+moves in a cautious/tense manner
+hunches the shoulders
+prefers runway clothing
+left-handed
+limps
+prefers headbanger clothing
+hold still when talking
+has a contorted/twisted posture
+has a short stride
+prefers retro-disco clothing
+right-handed
+prefers nerdy clothing
+walks fast and upright
+has a relaxed stance
+prefers sloppy clothing
+is bowlegged
+prefers new-wave clothing
+prefers hippy clothing
+has a military bearing
+twitchy, won't sit still
+moves in a fast/jerky manner
+prefers punk clothing
+gestures quickly
+walks slow and upright
+prefers athletic clothing
+prefers formal clothing
+prefers hipster clothing
+stands with the stomach tensed
+prefers colorful clothing
+has a stiff/tense stance
+prefers eclectic clothing
+prefers prairie clothing
+ambidextrous
+prefers trendy clothing
+prefers preppy clothing
+struts
+prefers grungy clothing
+sashays
+moves in a fast/controlled manner
+walks slow and leans back
+moves in a slow/controlled manner
+moves in a slow/clumsy manner
+makes subtle gestures
+prefers retro-fifties clothing
+gestures dramatically
+has an uneven gait
+walks fast with a forward lean
+slouches
+prefers mod clothing
+prefers conservative clothing
+has a long stride
+stands with the stomach relaxed
+prefers casual clothing
+prefers tailored clothing
+stands with hips forward
+moves in a cautious/tense manner
+hunches the shoulders
+prefers runway clothing
+left-handed
+limps
+prefers headbanger clothing
+hold still when talking
+has a contorted/twisted posture
+has a short stride
+prefers retro-disco clothing
+right-handed
+prefers nerdy clothing
+walks fast and upright
+has a relaxed stance
+prefers sloppy clothing
+prefers new-wave clothing
+is bowlegged
+prefers hippy clothing
+has a military bearing
+twitchy, won't sit still
+moves in a fast/jerky manner
+prefers punk clothing
+gestures quickly
+prefers formal clothing
+walks slow and upright
+prefers colorful clothing
+prefers hipster clothing
+stands with the stomach tensed
+has a stiff/tense stance
+prefers athletic clothing
+prefers eclectic clothing
+prefers prairie clothing
+ambidextrous
+prefers trendy clothing
+prefers preppy clothing
+struts
+sashays
+prefers grungy clothing
+moves in a fast/controlled manner
+walks slow and leans back
+moves in a slow/controlled manner
+moves in a slow/clumsy manner
+makes subtle gestures
+prefers retro-fifties clothing
+gestures dramatically
+has an uneven gait
+walks fast with a forward lean
+slouches
+prefers mod clothing
+prefers conservative clothing
+has a long stride
+stands with the stomach relaxed
+prefers tailored clothing
+moves in a cautious/tense manner
+stands with hips forward
+prefers casual clothing
+hunches the shoulders
+prefers runway clothing
+left-handed
+limps
+prefers headbanger clothing
+hold still when talking
+has a contorted/twisted posture
+has a short stride
+prefers retro-disco clothing
+right-handed
+prefers nerdy clothing
+prefers sloppy clothing
+walks fast and upright
+has a relaxed stance
+is bowlegged
+prefers new-wave clothing
+prefers hippy clothing
+has a military bearing
+moves in a fast/jerky manner
+twitchy, won't sit still
+prefers punk clothing
+gestures quickly
+prefers formal clothing
+prefers colorful clothing
+walks slow and upright
+prefers hipster clothing
+stands with the stomach tensed
+has a stiff/tense stance
+prefers athletic clothing
+prefers eclectic clothing
+prefers prairie clothing
+ambidextrous
+prefers trendy clothing
+prefers preppy clothing
+struts
+prefers grungy clothing
+sashays
+moves in a fast/controlled manner
+walks slow and leans back
+moves in a slow/controlled manner
+moves in a slow/clumsy manner
+makes subtle gestures
+prefers retro-fifties clothing
+gestures dramatically
+has an uneven gait
+walks fast with a forward lean
+prefers mod clothing
+slouches
+prefers conservative clothing
+has a long stride
+stands with the stomach relaxed
+prefers tailored clothing
+moves in a cautious/tense manner
+stands with hips forward
+prefers casual clothing
+hunches the shoulders
+prefers runway clothing
+left-handed
+limps
+prefers headbanger clothing
+hold still when talking
+has a contorted/twisted posture
+has a short stride
+prefers retro-disco clothing
+right-handed
+prefers nerdy clothing
+has a relaxed stance
+prefers sloppy clothing
+walks fast and upright
+is bowlegged
+prefers new-wave clothing
+prefers hippy clothing
+has a military bearing
+twitchy, won't sit still
+moves in a fast/jerky manner
+prefers punk clothing
+prefers colorful clothing
+walks slow and upright
+prefers athletic clothing
+gestures quickly
+prefers hipster clothing
+prefers formal clothing
+has a stiff/tense stance
+stands with the stomach tensed
+prefers eclectic clothing
+prefers prairie clothing
+ambidextrous
+prefers trendy clothing
+prefers preppy clothing
+struts
+sashays
+prefers grungy clothing
+moves in a fast/controlled manner
+walks slow and leans back
+moves in a slow/controlled manner
+moves in a slow/clumsy manner
+makes subtle gestures
+prefers retro-fifties clothing
+gestures dramatically
+has an uneven gait
+walks fast with a forward lean
+prefers mod clothing
+slouches
+prefers conservative clothing
+has a long stride
+stands with the stomach relaxed
+prefers tailored clothing
+moves in a cautious/tense manner
+stands with hips forward
+prefers casual clothing
+hunches the shoulders
+prefers runway clothing
+left-handed
+limps
+prefers headbanger clothing
+hold still when talking
+has a contorted/twisted posture
+has a short stride
+prefers retro-disco clothing
+right-handed
+prefers nerdy clothing
+walks fast and upright
+has a relaxed stance
+prefers sloppy clothing
+is bowlegged
+prefers new-wave clothing
+prefers hippy clothing
+has a military bearing
+twitchy, won't sit still
+moves in a fast/jerky manner
+prefers punk clothing
+walks slow and upright
+gestures quickly
+prefers formal clothing
+prefers athletic clothing
+prefers hipster clothing
+stands with the stomach tensed
+has a stiff/tense stance
+prefers colorful clothing
+prefers eclectic clothing
+prefers prairie clothing
+ambidextrous
+prefers trendy clothing
+prefers preppy clothing
+struts
+prefers grungy clothing
+sashays
+moves in a fast/controlled manner
+walks slow and leans back
+moves in a slow/controlled manner
+moves in a slow/clumsy manner
+makes subtle gestures
+prefers retro-fifties clothing
+gestures dramatically
+has an uneven gait
+walks fast with a forward lean
+slouches
+prefers mod clothing
+prefers conservative clothing
+has a long stride
+stands with the stomach relaxed
+prefers tailored clothing
+moves in a cautious/tense manner
+stands with hips forward
+prefers casual clothing
+hunches the shoulders
+prefers runway clothing
+left-handed
+limps
+prefers headbanger clothing
+hold still when talking
+has a contorted/twisted posture
+has a short stride
+prefers retro-disco clothing
+right-handed
+prefers nerdy clothing
+has a relaxed stance
+walks fast and upright
+prefers sloppy clothing
+is bowlegged
+prefers new-wave clothing
+prefers hippy clothing
+has a military bearing
+twitchy, won't sit still
+moves in a fast/jerky manner
+right-handed
+prefers punk clothing
+gestures quickly
+walks slow and upright
+prefers athletic clothing
+prefers formal clothing
+prefers hipster clothing
+stands with the stomach tensed
+has a stiff/tense stance
+prefers colorful clothing
+prefers eclectic clothing
+ambidextrous
+prefers trendy clothing
+prefers preppy clothing
+struts
+sashays
+prefers grungy clothing
+moves in a fast/controlled manner
+walks slow and leans back
+moves in a slow/controlled manner
+moves in a slow/clumsy manner
+makes subtle gestures
+prefers retro-fifties clothing
+gestures dramatically
+has an uneven gait
+walks fast with a forward lean
+slouches
+prefers mod clothing
+prefers conservative clothing
+has a long stride
+stands with the stomach relaxed
+prefers tailored clothing
+moves in a cautious/tense manner
+stands with hips forward
+prefers casual clothing
+hunches the shoulders
+prefers runway clothing
+left-handed
+limps
+prefers headbanger clothing
+hold still when talking
+has a contorted/twisted posture
+has a short stride
+prefers retro-disco clothing
+prefers prairie clothing

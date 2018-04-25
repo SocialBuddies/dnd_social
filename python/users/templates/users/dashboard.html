@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% load compress %}
+{% block title %}Dashboard{% endblock %}
+
+{% block content %}
+<div class="row">
+  <div class="col-lg-12">
+    <h1 class="page-header">Dashboard</h1>
+      <p>
+        things to put here<br>
+        - groups playing near yours<br>
+        - npc that had changes since last play session<br>
+        - relationship changes<br>
+        - messages<br>
+      </p>
+  </div>
+</div>
+
+{% endblock %}
+
+{% block js %}
+{% compress js inline %}
+<script>
+
+</script>
+{% endcompress %}
+{% endblock %}

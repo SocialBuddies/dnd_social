@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% load rest_framework %}
+{% load compress %}
+{% load static %}
+{% block title %}Generate NPC{% endblock %}
+
+{% block content %}
+<div class="row">
+  <div class="col-lg-3 col-md-3 col-sm-4">
+    <h1 class="page-header">Generate NPC</h1>
+    <form id="generateNpcForm" action="{% url 'npcs_api:generate_npc' %}" method="post" role="form">
+      {% csrf_token %}
+    {% render_form serializer %}
+      <div class="text-right">
+        <button type="submit" class="btn btn-info">Generate</button>
+      </div>
+    </form>
+  </div>
+
+  <div class="col-lg-6 col-md-7 col-sm-8" id="previewNpc">
+
+  </div>
+</div>
+{% endblock %}
+
+{% block js %}
+{% compress js inline %}
+{% include "npcs/handlebars/show_npc.html" %}
+<script>
+var auth_token = "{{ request.session.auth_token}}";
+var preview_npc_template = Handlebars.compile($('#show_npc').html());
+
+// submit forms and handle results
+var options = {
+  dataType: 'json',
+  headers: {"Authorization": "Token " + auth_token},
+  success: function(npc) {
+    $.getJSON(Urls['npcs_api:show_update_npc'](npc), function( data ) {
+        $("#previewNpc").html(preview_npc_template(data));
+    });
+  },
+  error: function(data) {
+    alert(data);
+  }
+};
+
+$(function() {
+    $('#generateNpcForm').ajaxForm(options);
+});
+</script>
+{% endcompress %}
+{% endblock %}

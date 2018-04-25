@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% load bootstrap4 %}
+{% block title %}Generate NPC{% endblock %}
+
+{% block content %}
+<div class="row">
+  <div class="col-lg-4 col-md-5 col-sm-6">
+    <h1 class="page-header">Generate NPC</h1>
+    <p>Fill the parts you want for your NPC. When clicking the generate, the remaining fields will be randomized.</p>
+    <form id="createNpc" action="." method="post" role="form" novalidate>
+      {% csrf_token %}
+        {% bootstrap_form form %}
+      <div class="text-right">
+        <button type="submit" class="btn btn-info">Generate</button>
+      </div>
+    </form>
+  </div>
+
+  <div class="col-lg-6 col-md-7 col-sm-8" id="previewNpc">
+
+  </div>
+</div>
+{% endblock %}

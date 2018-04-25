@@ -1,0 +1,15 @@
+<nav class="sidebar-nav">
+  <ul class="nav">
+    <li class="nav-item">
+      <a class="nav-link" href="{% url 'users:index' %}"><i class="icon-speedometer"></i> Home</a>
+    </li>
+  {% if user.is_authenticated %}
+    <li class="nav-item">
+      <a class="nav-link" href="{% url 'npcs:create_npc' %}"><i class="icon-speedometer"></i> NPC Create</a>
+    </li>
+  {% else %}
+
+  {% endif %}
+  </ul>
+</nav>
+<button class="sidebar-minimizer brand-minimizer" type="button"></button>
